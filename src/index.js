@@ -7,5 +7,5 @@ const title = 'React Boilerplate';
 
 ReactDOM.render(
   <App title={title} />,
-  document.getElementById('app')
+  document.getElementById('root')
 );
